@@ -1,16 +1,26 @@
-# Change these first
-owner: Analyzee # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: Analyzee
+repo: status
 
 sites:
   - name: Website
     url: https://analyzee.io
+    icon: https://raw.githubusercontent.com/Analyzee/status/master/assets/favicon.ico
   - name: API
     url: https://api.analyzee.io
+    icon: https://raw.githubusercontent.com/Analyzee/status/master/assets/favicon.ico
 assignees:
   - AntonioStipic
 
+i18n:
+  footer: Analyzee
+
 status-website:
-  name: Analyzee Status
+  name: 
   cname: status.analyzee.io
   logoUrl: https://raw.githubusercontent.com/Analyzee/status/master/assets/logo.png
+  favicon: https://raw.githubusercontent.com/Analyzee/status/master/assets/favicon.ico
+  navbar:
+    - title: Status
+      href: /
+    - title: Website
+      href: https://analyzee.io
