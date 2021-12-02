@@ -15,7 +15,7 @@ i18n:
   footer: Analyzee
 
 status-website:
-  name: 
+  name: ''
   cname: status.analyzee.io
   logoUrl: https://raw.githubusercontent.com/Analyzee/status/master/assets/logo.png
   favicon: https://raw.githubusercontent.com/Analyzee/status/master/assets/favicon.ico
