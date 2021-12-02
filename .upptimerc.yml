@@ -9,7 +9,7 @@ sites:
     url: https://api.analyzee.io
     icon: https://raw.githubusercontent.com/Analyzee/status/master/assets/favicon.ico
   - name: CDN
-    url: https://unpkg.com/@analyzee/core@latest
+    url: https://cdn.jsdelivr.net/npm/@analyzee/core@latest
     icon: https://raw.githubusercontent.com/Analyzee/status/master/assets/favicon.ico
 assignees:
   - AntonioStipic
