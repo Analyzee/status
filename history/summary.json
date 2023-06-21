@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 129,
-    "timeDay": 84,
-    "timeWeek": 705,
-    "timeMonth": 270,
+    "timeDay": 119,
+    "timeWeek": 687,
+    "timeMonth": 269,
     "timeYear": 135,
     "dailyMinutesDown": {
       "2022-11-20": 1173,
@@ -27,15 +27,15 @@
     "icon": "https://raw.githubusercontent.com/Analyzee/status/master/assets/favicon.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "98.19%",
+    "uptime": "98.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.29%",
     "time": 202,
-    "timeDay": 187,
+    "timeDay": 137,
     "timeWeek": 927,
-    "timeMonth": 499,
+    "timeMonth": 500,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2023-04-19": 584,
@@ -71,13 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 116,
-    "timeDay": 53,
-    "timeWeek": 348,
-    "timeMonth": 172,
-    "timeYear": 132,
-    "dailyMinutesDown": {
-      "2022-06-21": 19
-    }
+    "time": 117,
+    "timeDay": 210,
+    "timeWeek": 349,
+    "timeMonth": 175,
+    "timeYear": 133,
+    "dailyMinutesDown": {}
   }
 ]
