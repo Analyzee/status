@@ -22,7 +22,7 @@
     "url": "https://api.analyzee.io",
     "icon": "https://raw.githubusercontent.com/Analyzee/status/master/assets/favicon.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 1561,
     "timeYear": 550,
     "dailyMinutesDown": {
+      "2024-08-12": 0,
       "2023-08-31": 31
     }
   },
